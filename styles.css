@@ -18,11 +18,12 @@ img {width: 300px; text-align: center;}
     border-radius: 25px;
 }
 
-nav{
-    display: inline-block;
-    list-style: none;
-}
-footer {clear:both;}
+nav{display: inline-block;}
+
+ul{ list-style: none;}
+
+
+footer {clear:both; font-style: italic;}
 
 
 
